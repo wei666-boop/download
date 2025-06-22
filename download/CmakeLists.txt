@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.10)
+project(download)
+
+include_directories("C:/mingw64/curl-8.14.1_2-win64-mingw/include")
+link_directories("C:/mingw64/curl-8.14.1_2-win64-mingw/lib")
+
+add_executable(bin download.c )
+target_link_libraries(bin curl)

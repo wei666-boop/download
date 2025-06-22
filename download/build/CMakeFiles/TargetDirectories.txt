@@ -1,0 +1,3 @@
+C:/Users/huaxi/Desktop/download/build/CMakeFiles/bin.dir
+C:/Users/huaxi/Desktop/download/build/CMakeFiles/edit_cache.dir
+C:/Users/huaxi/Desktop/download/build/CMakeFiles/rebuild_cache.dir
